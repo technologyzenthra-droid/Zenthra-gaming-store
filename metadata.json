@@ -1,0 +1,7 @@
+{
+  "name": "ZENTHRA GAMING STORE",
+  "description": "A premium gaming store where users can download games and admins can manage listings.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
